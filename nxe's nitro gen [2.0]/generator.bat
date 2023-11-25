@@ -1,0 +1,9 @@
+@echo off
+cd Resources\installers
+echo Installing Reqs...
+start "" "req_installer.exe"
+echo Installing Env...
+cd ..
+echo Running...
+python "handler.py"
+pause
