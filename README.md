@@ -1,8 +1,8 @@
 # nxe's Nitro Generator V2
 
-[![GitHub license](https://img.shields.io/badge/license-GPL%20v3-blue.svg)](https://github.com/nxeeee/nitro-generator-v2/blob/master/LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/nxeeee/nitro-generator-v2.svg)](https://github.com/nxeeee/nitro-generator-v2/stargazers)
-[![GitHub issues](https://img.shields.io/github/issues/nxeeee/nitro-generator-v2.svg)](https://github.com/nxeeee/nitro-generator-v2/issues)
+[![GitHub license](https://img.shields.io/badge/license-GPL%20v3-blue.svg)](https://raw.githubusercontent.com/nxeeee/nitro-generator-2.0/main/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/nxeeee/nitro-generator-2.0.svg)](https://github.com/nxeeee/nitro-generator-2.0/stargazers)
+[![GitHub issues](https://img.shields.io/github/issues/nxeeee/nitro-generator-2.0.svg)](https://github.com/nxeeee/nitro-generator-2.0/issues)
 
 A powerful Discord Nitro Generator by nxeeee.
 
