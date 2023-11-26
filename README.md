@@ -1,8 +1,8 @@
 # nxe's Nitro Generator V2
 
-[![GitHub license](https://img.shields.io/badge/license-GPL%20v3-blue.svg)](https://raw.githubusercontent.com/nxeeee/nitro-generator-2.0/main/LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/nxeeee/nitro-generator-2.0.svg)](https://github.com/nxeeee/nitro-generator-2.0/stargazers)
-[![GitHub issues](https://img.shields.io/github/issues/nxeeee/nitro-generator-2.0.svg)](https://github.com/nxeeee/nitro-generator-2.0/issues)
+[![GitHub license](https://img.shields.io/badge/license-GPL%20v3-blue.svg)](https://raw.githubusercontent.com/nxeeee/nxe-Nitro-Generator-V2/main/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/nxeeee/nxe-Nitro-Generator-V2.svg)](https://github.com/nxeeee/nxe-Nitro-Generator-V2/stargazers)
+[![GitHub issues](https://img.shields.io/github/issues/nxeeee/nxe-Nitro-Generator-V2.svg)](https://github.com/nxeeee/nxe-Nitro-Generator-V2/issues)
 
 A powerful Discord Nitro Generator by nxeeee.
 
@@ -32,7 +32,7 @@ A powerful Discord Nitro Generator by nxeeee.
 Contributions are welcome! Here's how you can contribute:
 
 1. Star the repository!
-2. If you're having issues, head over to [issues](https://github.com/nxeeee/nitro-generator-2.0/issues) and submit your error as well as any information potentially helpful.
+2. If you're having issues, head over to [issues](https://github.com/nxeeee/nxe-Nitro-Generator-V2/issues) and submit your error as well as any information potentially helpful.
 3. Donate. My BTC wallet: `bc1q5zghjs7gg5ep5p8uj2yhmctsjx4vwg6vq5qxqy`
 
 ## License
